@@ -147,4 +147,3 @@ Users should complete tasks easily without assistance.
 
 This document represents **Phase 1 (Requirements)** of the project and focuses on defining system behavior and user needs before moving to design and implementation.
 
-Challanges and confusions (all)
